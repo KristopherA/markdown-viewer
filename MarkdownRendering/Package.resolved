@@ -1,0 +1,15 @@
+{
+  "originHash" : "21386003db03c6d1734f104cda776ad66c178e7eb4fc6c69875a8ec2bbdaf476",
+  "pins" : [
+    {
+      "identity" : "cmark-gfm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/brokenhandsio/cmark-gfm.git",
+      "state" : {
+        "revision" : "e97450a77a40f12b4f88f95891621c3b5d8669de",
+        "version" : "2.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
