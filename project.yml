@@ -28,6 +28,7 @@ targets:
         embed: true
     settings:
       PRODUCT_BUNDLE_IDENTIFIER: com.markdownviewer.MarkdownViewer
+      ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
       GENERATE_INFOPLIST_FILE: YES
       INFOPLIST_FILE: MarkdownViewer/Info.plist
       INFOPLIST_KEY_CFBundleDisplayName: Markdown Viewer
